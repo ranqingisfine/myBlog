@@ -1,11 +1,11 @@
-import { hasGlobalComponent } from "/Users/qingran/Desktop/jdtm/myBlog/my-docs/node_modules/@vuepress/helper/lib/client/index.js";
+import { hasGlobalComponent } from "/Users/qingran/Desktop/jdtm/myBlog/myBlog/node_modules/@vuepress/helper/lib/client/index.js";
 
-import { useScriptTag } from "/Users/qingran/Desktop/jdtm/myBlog/my-docs/node_modules/@vueuse/core/index.mjs";
-import FontIcon from "/Users/qingran/Desktop/jdtm/myBlog/my-docs/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
-import Badge from "/Users/qingran/Desktop/jdtm/myBlog/my-docs/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
-import VPCard from "/Users/qingran/Desktop/jdtm/myBlog/my-docs/node_modules/vuepress-plugin-components/lib/client/components/VPCard.js";
+import { useScriptTag } from "/Users/qingran/Desktop/jdtm/myBlog/myBlog/node_modules/@vueuse/core/index.mjs";
+import FontIcon from "/Users/qingran/Desktop/jdtm/myBlog/myBlog/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
+import Badge from "/Users/qingran/Desktop/jdtm/myBlog/myBlog/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
+import VPCard from "/Users/qingran/Desktop/jdtm/myBlog/myBlog/node_modules/vuepress-plugin-components/lib/client/components/VPCard.js";
 
-import "/Users/qingran/Desktop/jdtm/myBlog/my-docs/node_modules/vuepress-plugin-components/lib/client/styles/sr-only.scss";
+import "/Users/qingran/Desktop/jdtm/myBlog/myBlog/node_modules/vuepress-plugin-components/lib/client/styles/sr-only.scss";
 
 export default {
   enhance: ({ app }) => {
