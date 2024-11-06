@@ -13,7 +13,7 @@ tag:
 star: true
 ticky: true
 ---
-# Java内存模型
+# 8.2 Java内存模型
 
 ## 一、主内存与工作内存
 
