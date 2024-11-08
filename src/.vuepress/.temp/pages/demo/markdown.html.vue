@@ -40,7 +40,7 @@
 <li><a href="https://theme-hope.vuejs.press/zh/guide/markdown/content/footnote.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
 </ul>
 <h4 id="导入文件" tabindex="-1"><a class="header-anchor" href="#导入文件"><span>导入文件</span></a></h4>
-<ul>
+<Catalog /><ul>
 <li><a href="https://theme-hope.vuejs.press/zh/guide/markdown/content/include.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
 </ul>
 <h4 id="tex-语法" tabindex="-1"><a class="header-anchor" href="#tex-语法"><span>TeX 语法</span></a></h4>
@@ -160,7 +160,7 @@ $$</p>
 <li><a href="https://theme-hope.vuejs.press/zh/guide/markdown/chart/plantuml.html" target="_blank" rel="noopener noreferrer">View Detail</a></li>
 </ul>
 <h4 id="代码块" tabindex="-1"><a class="header-anchor" href="#代码块"><span>代码块</span></a></h4>
-<CodeTabs id="352" :data='[{"id":"pnpm"},{"id":"yarn"},{"id":"npm"}]' :active="2">
+<CodeTabs id="354" :data='[{"id":"pnpm"},{"id":"yarn"},{"id":"npm"}]' :active="2">
 <template #title0="{ value, isActive }">pnpm</template>
 <template #title1="{ value, isActive }">yarn</template>
 <template #title2="{ value, isActive }">npm</template>

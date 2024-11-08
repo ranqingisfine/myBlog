@@ -21,10 +21,9 @@ export default hopeTheme({
 
   // 导航栏
   navbar,
-
+  sidebarSorter: "date",
   // 侧边栏
   sidebar: "structure",
-
   // 页脚
   footer: "默认页脚",
   displayFooter: true,
