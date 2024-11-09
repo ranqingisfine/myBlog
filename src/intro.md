@@ -1,9 +1,9 @@
 ---
 <!--icon: circle-info-->
 cover: /assets/images/cover3.jpg
-date: 2024-11-05
+date: 2024-11-06
 ---
 
-# 五、介绍页
+# 六、介绍页
 
 将你的个人介绍和档案放置在此处。
