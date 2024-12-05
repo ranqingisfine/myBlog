@@ -1,3 +1,14 @@
+---
+<!--cover: /assets/images/cover2.jpg-->
+icon: pen-to-square
+date: 2024-12-05
+category:
+  - kafka
+tag:
+  - kafka
+star: true
+ticky: true
+---
 # kafka看这篇就够了
 
 ## 1、Kafka基础
