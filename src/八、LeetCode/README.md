@@ -1,8 +1,7 @@
 ---
-title: 十、主要功能与配置演示
+title: 八、LeetCode
 index: false
-order: 1
-date: 2024-11-10
+date: 2024-11-08
 <!--icon: laptop-code-->
 category:
   - 使用指南
