@@ -1,7 +1,7 @@
 ---
-title: 九、高级系统架构设计师
+title: 十、高级系统架构设计师
 index: false
-date: 2024-11-09
+date: 2025-05-11
 <!--icon: laptop-code-->
 category:
   - 使用指南

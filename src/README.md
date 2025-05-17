@@ -6,7 +6,7 @@ title: 博客主页
 heroImage: /mylogo.jpg
 heroText: ranqing的博客
 heroFullScreen: true
-tagline: 编程不止于行，更在于心
+tagline: 想到什么就写什么
 projects:
   - icon: project
     name: 项目名称

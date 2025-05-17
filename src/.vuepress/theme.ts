@@ -30,7 +30,7 @@ export default hopeTheme({
 
   // 博客相关
   blog: {
-    description: "一个认真的后端开发者",
+    description: "用微笑面对生活的每一次对线",
     intro: "/intro.html",
     medias: {
       Baidu: "https://example.com",
