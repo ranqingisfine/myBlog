@@ -1,5 +1,5 @@
 ---
-title: 十、高级系统架构设计师
+title: 十、大语言模型
 index: false
 date: 2025-05-11
 <!--icon: laptop-code-->
