@@ -6,7 +6,7 @@ title: 博客主页
 heroImage: /mylogo.jpg
 heroText: ranqing的博客
 heroFullScreen: true
-tagline: 想到什么就写什么
+tagline: 正在求职的Java老兵~
 projects:
   - icon: project
     name: 项目名称
