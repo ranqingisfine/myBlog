@@ -1,8 +1,7 @@
 ---
-title: 十二、主要功能与配置演示
+title: 十一、Agent开发
 index: false
-order: 1
-date: 2027-05-12
+date: 2026-05-12
 <!--icon: laptop-code-->
 category:
   - 使用指南
