@@ -1,3 +1,16 @@
+---
+<!--cover: /assets/images/cover2.jpg-->
+icon: pen-to-square
+date: 2026-07-01
+category:
+  - 大语言模型
+tag:
+  - agent开发
+star: true 
+ticky: true
+
+---
+
 # Agent开发实战
 
 Agent入门：
