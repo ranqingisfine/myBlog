@@ -1,4 +1,15 @@
-# 11.2.1.1 Gradio工具
+---
+<!--cover: /assets/images/cover2.jpg-->
+icon: pen-to-square
+date: 2026-07-05
+category:
+  - Agent开发
+tag:
+  - 基础
+star: true
+ticky: true
+---
+# 11.5.1.1 Gradio工具
 
 官网地址：https://gradio.app/
 
